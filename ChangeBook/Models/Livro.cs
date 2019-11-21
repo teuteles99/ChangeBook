@@ -17,5 +17,11 @@ namespace ChangeBook.Models
         public DateTime Ano { get; set; }
         public string Edicao { get; set; }
         public bool Disponibilidade { get; set; }
+
+        public Genero Genero { get; set; }
+        public int GeneroId { get; set; }
+
+        public int UserId { get; set; }
+
     }
 }

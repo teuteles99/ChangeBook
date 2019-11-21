@@ -10,7 +10,6 @@ namespace ChangeBook.Migrations
         public Configuration()
         {
             AutomaticMigrationsEnabled = true;
-            ContextKey = "ChangeBook.Models.ApplicationDbContext";
         }
 
         protected override void Seed(ChangeBook.Models.ApplicationDbContext context)

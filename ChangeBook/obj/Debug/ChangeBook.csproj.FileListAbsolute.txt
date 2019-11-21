@@ -68,3 +68,5 @@ C:\Users\cientista\source\repos\ChangeBook\ChangeBook\obj\Debug\ChangeBook.cspro
 C:\Users\cientista\source\repos\ChangeBook\ChangeBook\obj\Debug\ChangeBook.csproj.CopyComplete
 C:\Users\cientista\source\repos\ChangeBook\ChangeBook\obj\Debug\ChangeBook.dll
 C:\Users\cientista\source\repos\ChangeBook\ChangeBook\obj\Debug\ChangeBook.pdb
+C:\Users\cientista\source\repos\ChangeBook\ChangeBook\obj\Debug\ChangeBook.Migrations.InitialCreate.resources
+C:\Users\cientista\source\repos\ChangeBook\ChangeBook\obj\Debug\ChangeBook.csproj.GenerateResource.cache
