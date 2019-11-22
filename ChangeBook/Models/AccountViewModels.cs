@@ -78,6 +78,12 @@ namespace ChangeBook.Models
     public class RegisterViewModel
     {
         [Required]
+        public string Nome { get; set; }
+
+        [Required]
+        public string Cpf { get; set; }
+
+        [Required]
         [EmailAddress]
         [Display(Name = "E-mail")]
         public string Email { get; set; }

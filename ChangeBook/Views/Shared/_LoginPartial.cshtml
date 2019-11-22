@@ -7,6 +7,7 @@
             <li>
                 @Html.ActionLink("Olá " + User.Identity.GetUserName() + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Gerenciar" })
             </li>
+            <li>@Html.ActionLink("Meus Livros", "Index", "Livroes")</li>
             <li>@Html.ActionLink("Sair", "SignOut", "Home")</li>
         </ul>
     //}

@@ -10,6 +10,8 @@ namespace ChangeBook.Models
 {
     public class ApplicationUser : IdentityUser
     {
+        public string Nome { get; set; }
+        public string Cpf { get; set; }
         public ApplicationUser()
         {
             Clients = new Collection<Client>();
